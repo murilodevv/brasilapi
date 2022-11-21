@@ -1,6 +1,6 @@
 # BrasilAPI
 
-An application that consumes an API that collects CEP and CNPJ data.
+An application that consumes an API that collects CEP and CNPJ data. <br>
 The information was taken from the API available on the *brasilapi.com.br* website.
 
 Install the libraries:
